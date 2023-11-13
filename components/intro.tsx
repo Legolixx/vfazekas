@@ -56,7 +56,7 @@ export default function Intro() {
         <span className="font-bold">Hello, I'm Victor.</span> I'm currently{" "}
         <span className="font-bold">studying to become </span> a{" "}
         <span className="font-bold"> full-stack</span> developer. I enjoy
-        building <span className="italic">sites & apps</span>. My focus is{" "}
+        building <span className="italic">sites & apps</span>. My focus is{" "}<br>
         <span className="underline">React (Next.js)</span>.
       </motion.h1>
 
